@@ -22,8 +22,8 @@ Purpose: to create a program that will allow a user to keep track of their weekl
 6) Comparison Table: This table is a dynamic table where it compares the values of the Weekly Sum of Expenses table vs the Weekly Expenses table and it outputs the values. It determines if you are over the budget or inside the budget. 
 
 # How Does it Work 
-The goal of the program is to prompt a user to input a command that will allow the user to assign values and record transactions.
-# To activate the prompt:
+The goal of the program is to prompt a user to input a command that will allow the user to assign values,record transactions,calculate totals, and save the data .
+To activate the prompt:
 - press any key to activate the prompt 
 - The program will ask you to "Enter Case" -> ALL CASES ARE CASE SENSITIVE -> The following cases are: 
 a) Weekly Income: To assign how much is your weekly income. the value is saved and displayed on the weekly income row
