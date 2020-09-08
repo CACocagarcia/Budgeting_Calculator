@@ -2,7 +2,8 @@
 
 This program was made using Processing.js and importing javax.swing.JOptionPane library for the user input dialog
 
-Purpose: to create a program that will allow a user to keep track of their weekly budget by allowing the user to input their weekly budget and expenses/transactions.
+Purpose: to create a program that will allow a user to keep track of their weekly budget by allowing the user to input their weekly budget divided into categories, and record their daily expenses/transactions.
+         
 
 # Program Layout: 
 1) Weekly Income Row: this row displays the weekly income that the user inputs. On the right side it will display the estimated Monthly Income by multiplying the Weekly Income by    4
