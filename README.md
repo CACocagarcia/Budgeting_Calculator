@@ -38,7 +38,7 @@ The program will ask you to "Enter Case" -> ALL CASES ARE CASE SENSITIVE -> The 
 8) Total: To activate and display the values for the Weekly Sum of Expenses and Comparison table
 9) Save: to take a screenshot of the programs panel and save it as a png file. 
 
-#Improvements to be made
+# Improvements to be made
 
 - Add Delete Transaction: The program is unable to delete a transaction. To delete a transaction, the user must detele the data from the tsv files. 
 -- Idea on how to do it: user must input transaction name and amount >> read three tables using a For Loop >> obtain the specific index in the arrays  >> match them >> delete the tokens
