@@ -28,14 +28,14 @@ To activate the prompt:
 press any key to activate the prompt
 
 The program will ask you to "Enter Case" -> ALL CASES ARE CASE SENSITIVE -> The following cases are: 
-a) Weekly Income: To assign how much is your weekly income. the value is saved and displayed on the weekly income row
-b) Weekly RideShare: To assign the dollar amount to budget for RideShare3
-c) Weekly Food: To assign the dollar amount to budget for Food
-d) Weekly Entertaiment: To assign the dollar amount to budget for Entertainment
-e) Monthly Rent: To calculate how much to save per week to be able to pay for rent at the end of the month. This is calculated by grabbing the monthly rent rate and divide it by four 
-d) Monthly Phone: To calculate how much to save per week to be able to pay for phone at the end of the month. This is calculated by grabbing the monthly phone rate and divide it by four
-e) Add: This will activate for the user to record a transaction done during that week. Then the user will be asked to input the transaction name, date, and amount. The transaction name can only be: RideShare, Food, Entertainment
-f) Total: To activate and display the values for the Weekly Sum of Expenses and Comparison table
-g) Save: to take a screenshot of the programs panel and save it as a png file. 
+1) Weekly Income: To assign how much is your weekly income. the value is saved and displayed on the weekly income row
+2) Weekly RideShare: To assign the dollar amount to budget for RideShare3
+3) Weekly Food: To assign the dollar amount to budget for Food
+4) Weekly Entertaiment: To assign the dollar amount to budget for Entertainment
+5) Monthly Rent: To calculate how much to save per week to be able to pay for rent at the end of the month. This is calculated by grabbing the monthly rent rate and divide it by four 
+6) Monthly Phone: To calculate how much to save per week to be able to pay for phone at the end of the month. This is calculated by grabbing the monthly phone rate and divide it by four
+7) Add: This will activate for the user to record a transaction done during that week. Then the user will be asked to input the transaction name, date, and amount. The transaction name can only be: RideShare, Food, Entertainment
+8) Total: To activate and display the values for the Weekly Sum of Expenses and Comparison table
+9) Save: to take a screenshot of the programs panel and save it as a png file. 
 
 
