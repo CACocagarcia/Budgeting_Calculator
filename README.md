@@ -24,7 +24,9 @@ Purpose: to create a program that will allow a user to keep track of their weekl
 # How Does it Work 
 The goal of the program is to prompt a user to input a command that will allow the user to assign values,record transactions,calculate totals, and save the data .
 To activate the prompt:
-- press any key to activate the prompt
+
+press any key to activate the prompt
+
 The program will ask you to "Enter Case" -> ALL CASES ARE CASE SENSITIVE -> The following cases are: 
 a) Weekly Income: To assign how much is your weekly income. the value is saved and displayed on the weekly income row
 b) Weekly RideShare: To assign the dollar amount to budget for RideShare3
