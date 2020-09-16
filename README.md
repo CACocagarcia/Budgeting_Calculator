@@ -5,7 +5,12 @@ This program was made using Processing.js and importing javax.swing.JOptionPane 
 Purpose: to create a program that will allow a user to keep track of their weekly budget by allowing the user to input their weekly budget divided into categories, and record their daily expenses/transactions.
 
 -- Demo video available
-         
+
+# Inspiration
+Keeping track of your weekly budget is something that it's easy to slack on because of the laziness to do basic math, and the fear to notice that you might be spending
+more that what you are making. When you check your online bankin, you see the recorded transactions: money that came in, and money that came out. But in the online bamking
+the transaction is displayed with the posted date and not the transaction date. You have to open the transaction and see what was the actual date of the transaction. 
+This causes confusion to users. This interface is easy to use, where you only have to set your weekly budget, you set the amounts per category, you record your daily transactions, and you can get a total sum of your expenses with a comparison table that tells you whether if you're in your budget range or off per category.
 
 # Program Layout: 
 1) Weekly Income Row: this row displays the weekly income that the user inputs. On the right side it will display the estimated Monthly Income by multiplying the Weekly Income by    4
